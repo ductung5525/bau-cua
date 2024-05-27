@@ -1,0 +1,49 @@
+.rounded{
+    width: 200px;
+    height: 200px;
+}
+.animal{
+    display: flex;
+    justify-content: space-evenly;
+}
+.head{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chose{
+    margin-top: 200px;
+    position: relative;
+    bottom: -90px;
+}
+.btn-1{
+    position: relative;
+    bottom: -100px;
+    left: 100px;
+    border-radius: 15%;
+    background-color: aquamarine;
+}
+.note{
+    position: relative;
+    bottom: -90px;
+}
+.btn-2{
+    position: relative;
+    bottom: -10px;
+    left: 75%; 
+    border-radius: 15%;
+    background-color: aquamarine;
+}
+.image:hover, .image:active {
+    font-size: 300%;
+}
+
+.number{
+    position: relative;
+    bottom: 200px;
+    left: 10px;
+    font-size: 150%;
+
+}
+ 
